@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random Image</string>
+
+    <string name="width_label">Width (pixels)</string>
+    <string name="height_label">Height (pixels)</string>
+    <string name="category_label">Category</string>
+</resources>
